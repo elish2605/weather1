@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "weather1"
+version = "0.1.0"
+description = ""
+authors = ["bitan <elishevagrace93@gmal.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
